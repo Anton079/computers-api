@@ -97,3 +97,4 @@ C:\mycode\asp.net\computers-api\computers-api\obj\Debug\net8.0\refint\computers-
 C:\mycode\asp.net\computers-api\computers-api\obj\Debug\net8.0\computers-api.pdb
 C:\mycode\asp.net\computers-api\computers-api\obj\Debug\net8.0\computers-api.genruntimeconfig.cache
 C:\mycode\asp.net\computers-api\computers-api\obj\Debug\net8.0\ref\computers-api.dll
+C:\mycode\asp.net\computers-api\computers-api\obj\Debug\net8.0\computers-api.sourcelink.json

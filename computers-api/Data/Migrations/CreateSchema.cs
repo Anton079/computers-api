@@ -17,7 +17,7 @@ namespace computers_api.Data.Migrations
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()
                 .WithColumn("type").AsString(120).NotNullable()
                 .WithColumn("model").AsString(120).NotNullable()
-                .WithColumn("price").AsString(120).NotNullable();
+                .WithColumn("price").AsInt32().NotNullable();
         }
     }
 }
