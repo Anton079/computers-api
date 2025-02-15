@@ -1,5 +1,4 @@
 ﻿using FluentMigrator;
-using Microsoft.EntityFrameworkCore.Query.Internal;
 
 namespace computers_api.Data.Migrations
 {

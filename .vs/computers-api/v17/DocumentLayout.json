@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\computers-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\repository\\computerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +15,28 @@
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\repository\\icomputerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,17 +50,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Models\\Computer.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Models\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:10:54.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputerController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:56:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "computers-api\\Data\\Migrations\\AppDbContext.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeToolTip": "computers-api\\Data\\Migrations\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:14:04.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CreateSchema.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeDocumentMoniker": "computers-api\\Data\\Migrations\\CreateSchema.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeToolTip": "computers-api\\Data\\Migrations\\CreateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:15:06.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ComputerRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\ComputerRepo.cs",
               "RelativeDocumentMoniker": "computers-api\\Computers\\Repository\\ComputerRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\ComputerRepo.cs",
               "RelativeToolTip": "computers-api\\Computers\\Repository\\ComputerRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T17:56:41.092Z",
               "EditorCaption": ""
@@ -68,19 +120,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ComputerController.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "IComputerRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:28.223Z",
+              "WhenOpened": "2025-02-05T17:56:51.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
+              "RelativeDocumentMoniker": "computers-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
+              "RelativeToolTip": "computers-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:16:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json",
               "RelativeDocumentMoniker": "computers-api\\appsettings.json",
@@ -89,6 +154,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-03T16:16:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "computers-api.http",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.http",
+              "RelativeDocumentMoniker": "computers-api\\computers-api.http",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.http",
+              "RelativeToolTip": "computers-api\\computers-api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-03T16:20:28.466Z",
               "EditorCaption": ""
             },
             {
@@ -102,84 +180,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-03T16:16:25.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
-              "RelativeDocumentMoniker": "computers-api\\Program.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
-              "RelativeToolTip": "computers-api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:16:03.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateSchema.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\CreateSchema.cs",
-              "RelativeDocumentMoniker": "computers-api\\Data\\Migrations\\CreateSchema.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\CreateSchema.cs",
-              "RelativeToolTip": "computers-api\\Data\\Migrations\\CreateSchema.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:15:06.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IComputerRepo.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:51.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "computers-api\\Data\\Migrations\\AppDbContext.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\AppDbContext.cs",
-              "RelativeToolTip": "computers-api\\Data\\Migrations\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:14:04.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Computer.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Models\\Computer.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Models\\Computer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:10:54.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "computers-api.http",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.http",
-              "RelativeDocumentMoniker": "computers-api\\computers-api.http",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.http",
-              "RelativeToolTip": "computers-api\\computers-api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-03T16:20:28.466Z",
-              "EditorCaption": ""
             }
           ]
         }

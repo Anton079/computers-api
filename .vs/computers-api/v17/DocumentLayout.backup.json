@@ -62,8 +62,7 @@
               "RelativeToolTip": "computers-api\\Computers\\Repository\\ComputerRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:41.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T17:56:41.092Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "computers-api\\Computers\\Controllers\\ComputerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:28.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T17:56:28.223Z"
             },
             {
               "$type": "Document",
@@ -86,7 +84,7 @@
               "RelativeDocumentMoniker": "computers-api\\appsettings.json",
               "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json",
               "RelativeToolTip": "computers-api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-03T16:16:52.989Z",
               "EditorCaption": ""
@@ -113,8 +111,7 @@
               "RelativeToolTip": "computers-api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:16:03.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:16:03.008Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "computers-api\\Data\\Migrations\\CreateSchema.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwBMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:15:06.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:15:06.707Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:51.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T17:56:51.017Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "computers-api\\Data\\Migrations\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:14:04.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:14:04.456Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "computers-api\\Computers\\Models\\Computer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:10:54.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:10:54.997Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "computers-api\\computers-api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-03T16:20:28.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:20:28.466Z"
             }
           ]
         }
