@@ -1,8 +1,34 @@
 [
   {
     "ContainingType": "computers_api.Computers.Controllers.ComputerController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/v1/Computer/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "computerReq",
+        "Type": "computers_api.Computers.Dtos.ComputerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "computers_api.Computers.Dtos.ComputerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "computers_api.Computers.Controllers.ComputerController",
     "Method": "GetComputerAsync",
-    "RelativePath": "api/v1/Computer",
+    "RelativePath": "api/v1/Computer/all",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
