@@ -8,7 +8,9 @@ namespace computers_api.Computers.Mapers
     {
         public ComputerMappingProfile()
         {
-            CreateMap<ComputerRequest, Computer>();
+            CreateMap<EditComputerRequest, Computer>();
+            CreateMap<AddComputerRequest, Computer>();
+            CreateMap<DeleteComputerRequest, Computer>();
             CreateMap<Computer, ComputerResponse>();
         }
     }

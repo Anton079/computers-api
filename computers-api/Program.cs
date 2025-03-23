@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using FluentMigrator.Runner;
 using computers_api.Data.Migrations;
 using computers_api.Computers.Repository;
+using computers_api.Computers.Service;
 
 public class Program
 {
@@ -29,6 +30,9 @@ public class Program
 
 
         builder.Services.AddScoped<IComputerRepo, ComputerRepo>();
+        builder.Services.AddScoped<IComputerCommandService, ComputerCommandService>();
+        builder.Services.AddScoped<IComputerQueryService, ComputerQueryService>();
+
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()
             .WithGlobalConnectionString(builder.Configuration.GetConnectionString("Default"))

@@ -1,6 +1,8 @@
 ﻿using computers_api.Computers.Dtos;
+using computers_api.Computers.Exceptions;
 using computers_api.Computers.Models;
 using computers_api.Computers.Repository;
+using computers_api.Computers.Service;
 using Microsoft.AspNetCore.Mvc;
 
 namespace computers_api.Computers.Controllers
@@ -9,18 +11,20 @@ namespace computers_api.Computers.Controllers
     [Route("api/v1/[controller]")]
     public class ComputerController : ControllerBase
     {
-        private IComputerRepo _computerRepo;
+        private IComputerCommandService _computerCommandService;
+        private IComputerQueryService _computerQueryService;
 
-        public ComputerController(IComputerRepo computerRepo)
+        public ComputerController(IComputerCommandService computerCommandService, IComputerQueryService computerQueryService)
         {
-            _computerRepo = computerRepo;
+            _computerCommandService = computerCommandService;
+            _computerQueryService = computerQueryService;
         }
 
         [HttpGet("all")]
 
-        public async Task<ActionResult<List<Computer>>> GetComputerAsync()
+        public async Task<ActionResult<ComputerResponse>> GetComputerAsync()
         {
-            var computer = await _computerRepo.GetComputersAsync();
+            var computer = await _computerQueryService.GetAllComputer();
 
             return Ok(computer);
         }
@@ -28,11 +32,32 @@ namespace computers_api.Computers.Controllers
 
         [HttpPost("add")]
 
-        public async Task<ActionResult<ComputerResponse>> CreateAsync([FromBody] ComputerRequest computerReq)
+        public async Task<ActionResult<ComputerResponse>> CreateAsync([FromBody] AddComputerRequest computerReq)
         {
-            ComputerResponse computerSaved = await _computerRepo.CreateComputerAsync(computerReq);
+            try
+            {
+                ComputerResponse computerSaved = await _computerCommandService.CreateComputerAsync(computerReq);
 
-            return Ok(computerSaved);
+                return Ok(computerSaved);
+            }
+            catch (ComputerExistException ex) { return BadRequest(ex.Message); }
+        }
+
+        //[HttpDelete("DeleteComputerByID")]
+
+        //public async Task<ActionResult<ComputerResponse>> DeleteCar([FromQuery]DeleteComputerRequest computerReq)
+        //{
+        //    var car = await _computerCommandService.DeleteComputerById(computerReq);
+
+        //    return Ok(car);
+        //}
+
+        [HttpPut("updateComputer")]
+
+        public async Task<ActionResult<ComputerResponse>> UpdateComputerById([FromQuery]int id, [FromBody]EditComputerRequest computerReq)
+        {
+            ComputerResponse computer = await _computerCommandService.EditComputer(id, computerReq);
+            return Ok(computer);
         }
     }
 }

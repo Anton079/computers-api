@@ -3,48 +3,120 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\computers-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\mapers\\computermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\mapers\\computermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\repository\\computerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\repository\\computerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\dtos\\computerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\dtos\\computerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\repository\\icomputerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\repository\\icomputerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\service\\computercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\service\\computercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\repository\\computerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\repository\\computerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\repository\\icomputerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\repository\\icomputerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\mapers\\computermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\mapers\\computermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\service\\computerqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\service\\computerqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\service\\icomputercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\service\\icomputercommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\dtos\\editcomputerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\dtos\\editcomputerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\dtos\\addcomputerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\dtos\\addcomputerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\dtos\\computerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\dtos\\computerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\dtos\\deletecomputerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\dtos\\deletecomputerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\computerexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\computerexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\system\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\system\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\service\\icomputerqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\service\\icomputerqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\priceexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\priceexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\modelexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\modelexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\typeexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\typeexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\idexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\idexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\nullmodelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\nullmodelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\nullidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\nullidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\nullcomputerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\nullcomputerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\nullpriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\nullpriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers\\exceptions\\nulltypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers\\exceptions\\nulltypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -61,6 +133,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|c:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AD902D19-FEBD-4BBE-91BE-4243D6D8D7C4}|computers-api\\computers-api.csproj|solutionrelative:computers-api\\computers-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\ComputerRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:computers-api\\Computers\\Dtos\\ComputerRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,72 +146,339 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ComputerRepo.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\ComputerRepo.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Repository\\ComputerRepo.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\ComputerRepo.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Repository\\ComputerRepo.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:41.092Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IComputerRepo.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Title": "ComputerQueryService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\ComputerQueryService.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Service\\ComputerQueryService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\ComputerQueryService.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Service\\ComputerQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:51.017Z"
+              "WhenOpened": "2025-03-09T15:31:43.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
-              "RelativeDocumentMoniker": "computers-api\\Program.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
-              "RelativeToolTip": "computers-api\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwBsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:16:03.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json",
-              "RelativeDocumentMoniker": "computers-api\\appsettings.json",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json",
-              "RelativeToolTip": "computers-api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T16:16:52.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ComputerMappingProfile.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Mapers\\ComputerMappingProfile.cs",
               "RelativeDocumentMoniker": "computers-api\\Computers\\Mapers\\ComputerMappingProfile.cs",
               "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Mapers\\ComputerMappingProfile.cs",
               "RelativeToolTip": "computers-api\\Computers\\Mapers\\ComputerMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T15:28:30.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComputerRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\ComputerRepo.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Repository\\ComputerRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\ComputerRepo.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Repository\\ComputerRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowEoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:56:41.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteComputerRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\DeleteComputerRequest.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Dtos\\DeleteComputerRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\DeleteComputerRequest.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Dtos\\DeleteComputerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:11:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComputerExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\ComputerExistException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\ComputerExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\ComputerExistException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\ComputerExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:30.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Models\\Computer.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Models\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:10:54.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IComputerCommandService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\IComputerCommandService.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Service\\IComputerCommandService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\IComputerCommandService.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Service\\IComputerCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:30:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IComputerRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Repository\\IComputerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:56:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputerCommandService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\ComputerCommandService.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Service\\ComputerCommandService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\ComputerCommandService.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Service\\ComputerCommandService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:31:08.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddComputerRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\AddComputerRequest.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Dtos\\AddComputerRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\AddComputerRequest.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Dtos\\AddComputerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:22:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputerController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Controllers\\ComputerController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T17:56:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditComputerRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\EditComputerRequest.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Dtos\\EditComputerRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\EditComputerRequest.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Dtos\\EditComputerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:22:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ComputerResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\ComputerResponse.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Dtos\\ComputerResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\ComputerResponse.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Dtos\\ComputerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:35:43.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
+              "RelativeDocumentMoniker": "computers-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Program.cs",
+              "RelativeToolTip": "computers-api\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:16:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\System\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "computers-api\\System\\ExceptionMessages.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\System\\ExceptionMessages.cs",
+              "RelativeToolTip": "computers-api\\System\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:47:10.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NullIdException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullIdException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\NullIdException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullIdException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\NullIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:01.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NullTypeException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullTypeException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\NullTypeException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullTypeException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\NullTypeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NullModelException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullModelException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\NullModelException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullModelException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\NullModelException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IdExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\IdExistException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\IdExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\IdExistException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\IdExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:21:33.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TypeExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\TypeExistException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\TypeExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\TypeExistException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\TypeExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:21:57.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IComputerQueryService.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\IComputerQueryService.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Service\\IComputerQueryService.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Service\\IComputerQueryService.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Service\\IComputerQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:31:26.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModelExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\ModelExistException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\ModelExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\ModelExistException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\ModelExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:22:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PriceExistException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\PriceExistException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\PriceExistException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\PriceExistException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\PriceExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:22:50.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdNotFoundException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\IdNotFoundException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\IdNotFoundException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\IdNotFoundException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\IdNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:23:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NullPriceException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullPriceException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\NullPriceException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullPriceException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\NullPriceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:24.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NullComputerException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullComputerException.cs",
+              "RelativeDocumentMoniker": "computers-api\\Computers\\Exceptions\\NullComputerException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Exceptions\\NullComputerException.cs",
+              "RelativeToolTip": "computers-api\\Computers\\Exceptions\\NullComputerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:36.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "CreateSchema.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeDocumentMoniker": "computers-api\\Data\\Migrations\\CreateSchema.cs",
@@ -147,67 +490,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeDocumentMoniker": "computers-api\\Data\\Migrations\\AppDbContext.cs",
               "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeToolTip": "computers-api\\Data\\Migrations\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T16:14:04.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 33,
               "Title": "ComputerRequest.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\ComputerRequest.cs",
               "RelativeDocumentMoniker": "computers-api\\Computers\\Dtos\\ComputerRequest.cs",
               "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\ComputerRequest.cs",
               "RelativeToolTip": "computers-api\\Computers\\Dtos\\ComputerRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T15:35:33.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComputerController.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Controllers\\ComputerController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T17:56:28.223Z"
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json",
+              "RelativeDocumentMoniker": "computers-api\\appsettings.json",
+              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\appsettings.json",
+              "RelativeToolTip": "computers-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T16:16:52.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Computer.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Models\\Computer.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Models\\Computer.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Models\\Computer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:10:54.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ComputerResponse.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\ComputerResponse.cs",
-              "RelativeDocumentMoniker": "computers-api\\Computers\\Dtos\\ComputerResponse.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Computers\\Dtos\\ComputerResponse.cs",
-              "RelativeToolTip": "computers-api\\Computers\\Dtos\\ComputerResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T15:35:43.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "computers-api\\Properties\\launchSettings.json",
@@ -219,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "computers-api.http",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.http",
               "RelativeDocumentMoniker": "computers-api\\computers-api.http",
@@ -231,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "computers-api",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.csproj",
               "RelativeDocumentMoniker": "computers-api\\computers-api.csproj",
@@ -242,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "computers-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\computers-api\\computers-api\\computers-api.csproj",
               "RelativeDocumentMoniker": "computers-api\\computers-api.csproj",
